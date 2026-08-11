@@ -1,15 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Manohar%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI-Full%20Stack%20Developer%20|%20B.Tech%20CSE%20(AI)&descAlignY=58&descAlign=50"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=I+Build+AI-Powered+Web+Applications;React.js+%7C+Node.js+%7C+Firebase+%7C+AI+APIs;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=230&section=header&text=Hi%20There,%20I'm%20Manohar%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI-Full%20Stack%20Developer%20|%20B.Tech%20CSE%20(AI)&descAlignY=58&descAlign=50"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=manoharchalla-in&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views"/>
-<a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:23ht1a4315@city.ac.in"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="./profile.jpg" width="180" style="border-radius:50%;border:4px solid #6366F1;box-shadow:0 0 25px rgba(99,102,241,0.6);" alt="Manohar"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+Build+AI-Powered+Web+Applications;React.js+%7C+Node.js+%7C+Firebase+%7C+AI+APIs;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=manoharchalla-in&label=Profile%20Views&color=8B5CF6&style=plastic" alt="profile views"/>
+<a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=plastic&logo=twitter&logoColor=white" /></a>
+<a href="mailto:23ht1a4315@city.ac.in"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/cit_23ht1a4315"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=plastic&logo=codechef&logoColor=white" /></a>
 
 </div>
 
@@ -33,9 +40,9 @@ I'm an **AI-Full Stack Developer** pursuing **B.Tech in Computer Science & Engin
 </td>
 <td width="40%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manoharchalla-in&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manoharchalla-in&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=15" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharchalla-in&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharchalla-in&theme=radical&hide_border=true&border_radius=15" width="100%"/>
 
 </td>
 </tr>
@@ -47,7 +54,7 @@ I'm an **AI-Full Stack Developer** pursuing **B.Tech in Computer Science & Engin
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=manoharchalla-in&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=manoharchalla-in&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -59,37 +66,19 @@ I'm an **AI-Full Stack Developer** pursuing **B.Tech in Computer Science & Engin
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark" />
 
 **Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<img src="https://skillicons.dev/icons?i=nodejs,django,firebase,mongodb,mysql,python,c&theme=dark" />
 
 **AI, Tools & Design**
 
-![AI APIs](https://img.shields.io/badge/AI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=postman,git,github,figma,linux,vscode&theme=dark" />
 
 **Deployment**
 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+<img src="https://skillicons.dev/icons?i=netlify,vercel,render&theme=dark" />
 
 </div>
 
@@ -111,7 +100,9 @@ An AI-powered career platform connecting students, recruiters, and institutions 
 - AI career assistant & skill recommendations
 - Student profiles & messaging modules
 
-`React.js` `Node.js` `AI APIs`
+![React](https://img.shields.io/badge/React.js-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![AI](https://img.shields.io/badge/AI_APIs-412991?style=plastic&logo=openai&logoColor=white)
 
 </td>
 <td width="50%">
@@ -126,7 +117,9 @@ Discovers trending topics and automatically generates audience-focused content, 
 - Auto social media publishing
 - Analytics dashboard for engagement metrics
 
-`React.js` `Node.js` `AI APIs` `REST APIs`
+![React](https://img.shields.io/badge/React.js-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-025E8C?style=plastic&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
@@ -148,11 +141,11 @@ Discovers trending topics and automatically generates audience-focused content, 
 
 <div align="center">
 
-![AI Agents](https://img.shields.io/badge/AI_Agents-black?style=flat-square)
-![System Design](https://img.shields.io/badge/System_Design-black?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws)
-![DevOps](https://img.shields.io/badge/DevOps-black?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6366F1?style=plastic)
+![System Design](https://img.shields.io/badge/System_Design-6366F1?style=plastic)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-6366F1?style=plastic)
 
 </div>
 
@@ -179,7 +172,7 @@ Chalapathi Institute of Technology, Andhra Pradesh · CGPA: 7.38 · Expected May
 
 <img src="https://raw.githubusercontent.com/manoharchalla-in/manoharchalla-in/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<sub>⚠️ Snake animation activates automatically once you enable the <a href="https://github.com/Platane/snk">snk GitHub Action</a> on your profile repo</sub>
+<sub>⚠️ Activates automatically once you enable the <a href="https://github.com/Platane/snk">snk GitHub Action</a> on your profile repo</sub>
 
 </div>
 
@@ -189,11 +182,11 @@ Chalapathi Institute of Technology, Andhra Pradesh · CGPA: 7.38 · Expected May
 
 <div align="center">
 
-<a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://github.com/manoharchalla-in"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/cit_23ht1a4315"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="mailto:23ht1a4315@city.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" /></a>
+<a href="https://github.com/manoharchalla-in"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/cit_23ht1a4315"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=codechef&logoColor=white" /></a>
+<a href="mailto:23ht1a4315@city.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -205,6 +198,6 @@ Chalapathi Institute of Technology, Andhra Pradesh · CGPA: 7.38 · Expected May
 
 *"Solving real-world problems through modern web technologies and AI."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer"/>
 
 </div>
