@@ -1,167 +1,197 @@
-<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a">
-        <animate attributeName="stop-color" values="#0f172a;#1e1b4b;#0f172a" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#312e81">
-        <animate attributeName="stop-color" values="#312e81;#4c1d95;#312e81" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#0f172a">
-        <animate attributeName="stop-color" values="#0f172a;#1e1b4b;#0f172a" dur="6s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
+<div align="center">
 
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#818cf8"/>
-      <stop offset="50%" stop-color="#c084fc"/>
-      <stop offset="100%" stop-color="#818cf8">
-        <animate attributeName="offset" values="1;1.5;1" dur="3s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Challa+Manohar+%F0%9F%91%8B;AI+%2B+Full+Stack+Developer;I+Build+AI-Powered+Web+Applications;React.js+%7C+Node.js+%7C+Firebase+%7C+AI+APIs" alt="Typing SVG" />
 
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+<br/>
 
-  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6366f1&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:23ht1a4315@city.ac.in)
+[![Available](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square)](https://github.com/yourusername)
 
-  <circle cx="100" cy="60" r="3" fill="#818cf8" opacity="0.7">
-    <animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1080" cy="90" r="4" fill="#c084fc" opacity="0.6">
-    <animate attributeName="cy" values="90;120;90" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;0.15;0.6" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="200" cy="250" r="2.5" fill="#38bdf8" opacity="0.5">
-    <animate attributeName="cy" values="250;220;250" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="950" cy="240" r="3.5" fill="#818cf8" opacity="0.6">
-    <animate attributeName="cy" values="240;270;240" dur="4.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="600" cy="30" r="2" fill="#c084fc" opacity="0.5">
-    <animate attributeName="cx" values="600;650;600" dur="6s" repeatCount="indefinite"/>
-  </circle>
+</div>
 
-  <g transform="translate(1050,160)">
-    <circle r="45" fill="none" stroke="#818cf8" stroke-width="1" opacity="0.35"/>
-    <circle r="65" fill="none" stroke="#c084fc" stroke-width="1" opacity="0.2"/>
-    <circle cx="45" cy="0" r="4" fill="#c084fc">
-      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="-65" cy="0" r="3" fill="#818cf8">
-      <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="11s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+<br/>
 
-  <text x="600" y="145" font-family="'Segoe UI', Arial, sans-serif" font-size="58" font-weight="700" fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)">
-    Challa Manohar
-    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
-  </text>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-  <text x="600" y="190" font-family="'Segoe UI', Arial, sans-serif" font-size="22" fill="#c7d2fe" text-anchor="middle" opacity="0">
-    AI &#8226; Full Stack Developer
-    <animate attributeName="opacity" values="0;0;1" dur="2.4s" fill="freeze"/>
-  </text>
+### 🧠 About Me
 
-  <rect x="500" y="205" width="0" height="3" rx="1.5" fill="url(#textGrad)">
-    <animate attributeName="width" values="0;200" dur="1.4s" begin="1.8s" fill="freeze"/>
-    <animate attributeName="x" values="600;500" dur="1.4s" begin="1.8s" fill="freeze"/>
-  </rect>
+I'm an **AI-Full Stack Developer** currently pursuing **B.Tech in Computer Science & Engineering (Artificial Intelligence)**, passionate about building scalable, AI-powered web applications that solve real-world problems.
 
-  <text x="600" y="245" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#94a3b8" text-anchor="middle" opacity="0">
-    Building scalable web apps with React, Node.js &amp; AI
-    <animate attributeName="opacity" values="0;0;1" dur="3.2s" fill="freeze"/>
-  </text>
-</svg>
-<svg width="600" height="260" viewBox="0 0 600 260" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6366f1"/>
-      <stop offset="100%" stop-color="#c084fc"/>
-    </linearGradient>
-  </defs>
+- 🔭 Currently building **AI Content Automation Platform** — an end-to-end pipeline for topic research, content generation, scheduling & social publishing
+- 🎓 Studying at **Chalapathi Institute of Technology**, Andhra Pradesh — Expected May 2027
+- 💼 Freelancing as an **Independent Full Stack Developer** since 2023
+- 🌱 Currently exploring **AI Agents, System Design & DevOps**
+- ⚡ Fun fact: I turn ideas into shipped products — fast
 
-  <text x="0" y="20" font-size="15" fill="#e2e8f0">React.js</text>
-  <rect x="0" y="28" width="600" height="10" rx="5" fill="#1e293b"/>
-  <rect x="0" y="28" height="10" rx="5" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="540" dur="1.6s" fill="freeze"/>
-  </rect>
+</td>
+<td width="40%" valign="top">
 
-  <text x="0" y="70" font-size="15" fill="#e2e8f0">Node.js</text>
-  <rect x="0" y="78" width="600" height="10" rx="5" fill="#1e293b"/>
-  <rect x="0" y="78" height="10" rx="5" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="528" dur="1.6s" begin="0.15s" fill="freeze"/>
-  </rect>
+### 📊 GitHub Stats
 
-  <text x="0" y="120" font-size="15" fill="#e2e8f0">JavaScript (ES6+)</text>
-  <rect x="0" y="128" width="600" height="10" rx="5" fill="#1e293b"/>
-  <rect x="0" y="128" height="10" rx="5" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="552" dur="1.6s" begin="0.3s" fill="freeze"/>
-  </rect>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
 
-  <text x="0" y="170" font-size="15" fill="#e2e8f0">Firebase &amp; REST APIs</text>
-  <rect x="0" y="178" width="600" height="10" rx="5" fill="#1e293b"/>
-  <rect x="0" y="178" height="10" rx="5" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="510" dur="1.6s" begin="0.45s" fill="freeze"/>
-  </rect>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="100%"/>
 
-  <text x="0" y="220" font-size="15" fill="#e2e8f0">AI APIs &amp; Integration</text>
-  <rect x="0" y="228" width="600" height="10" rx="5" fill="#1e293b"/>
-  <rect x="0" y="228" height="10" rx="5" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="480" dur="1.6s" begin="0.6s" fill="freeze"/>
-  </rect>
-</svg>
-<svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6366f1"/>
-      <stop offset="50%" stop-color="#c084fc"/>
-      <stop offset="100%" stop-color="#38bdf8"/>
-    </linearGradient>
-  </defs>
-  <path fill="url(#waveGrad)" opacity="0.85">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite"
-      values="
-      M0,30 C300,60 900,0 1200,30 L1200,60 L0,60 Z;
-      M0,30 C300,0 900,60 1200,30 L1200,60 L0,60 Z;
-      M0,30 C300,60 900,0 1200,30 L1200,60 L0,60 Z"/>
-  </path>
-</svg>
-name: Generate Snake Animation
+</td>
+</tr>
+</table>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
+<br/>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+## 🛠️ Tech Stack
 
-      - name: Push snake svg to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI & Tools**
+
+![AI APIs](https://img.shields.io/badge/AI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Deployment**
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 VNXV – Next Vision
+**AI Career Platform**
+
+An AI-powered career platform connecting students, recruiters, and institutions with secure authentication, recruiter dashboards, and job management.
+
+**Highlights:**
+- ATS resume analysis
+- AI career assistant & skill recommendations
+- Student profiles & messaging modules
+
+`React.js` `Node.js` `AI APIs`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/yourusername)
+[![Demo](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square&logo=vercel)](#)
+
+</td>
+<td width="50%">
+
+### 🤖 AI Content Automation Platform
+**Content & Publishing Automation**
+
+Discovers trending topics and automatically generates audience-focused content, automating the entire publishing workflow.
+
+**Highlights:**
+- Automated topic research & scheduling
+- Auto social media publishing
+- Analytics dashboard for engagement metrics
+
+`React.js` `Node.js` `AI APIs` `REST APIs`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/yourusername)
+[![Demo](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square&logo=vercel)](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💼 Experience
+
+**Independent Full Stack Developer** — Freelance Web Development · *Remote*
+`2023 – Present`
+- Designed and developed full-stack web applications using React.js, Node.js, Firebase, and REST APIs
+- Delivered custom web solutions with responsive interfaces, secure authentication, and optimized performance
+- Deployed production-ready applications using Netlify, Render, and Vercel while managing source code with Git and GitHub
+
+<br/>
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/AI_Agents-black?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-black?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws)
+![DevOps](https://img.shields.io/badge/DevOps-black?style=flat-square)
+
+</div>
+
+<br/>
+
+## 🏆 Certifications & Achievements
+
+- 🥇 **Salesforce Agentblazer Champion** — Agentforce Fundamentals
+- 🥇 **Oracle Generative AI Professional**
+- 🥇 **Generative AI** — LinkedIn Learning
+
+<br/>
+
+## 🎓 Education
+
+**B.Tech in Computer Science and Engineering (Artificial Intelligence)**
+Chalapathi Institute of Technology, Andhra Pradesh · CGPA: 7.38 · Expected May 2027
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23ht1a4315@city.ac.in)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**🌐 Languages:** English · Telugu · Hindi · Tamil
+
+---
+
+*"Solving real-world problems through modern web technologies and AI."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer)
+
+</div>
