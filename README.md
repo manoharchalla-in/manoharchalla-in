@@ -6,12 +6,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+Build+AI-Powered+Web+Applications;React.js+%7C+Node.js+%7C+Firebase+%7C+AI+APIs;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80" alt="Typing SVG" />
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=manoharchalla-in&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="profile views"/>
-<a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:challamanoharmanu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/cit_23ht1a4315"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/17QwRfFf8-jzomB7fnvqKFlHCxw-UJQ3Y/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+<!-- Matching For-The-Badge Theme -->
+<img src="https://komarev.com/ghpvc/?username=manoharchalla-in&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="profile views"/>
+<a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:challamanoharmanu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/cit_23ht1a4315"><img src="https://img.shields.io/badge/CODECHEF-PROFILE-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<br/>
+<a href="https://drive.google.com/file/d/17QwRfFf8-jzomB7fnvqKFlHCxw-UJQ3Y/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-VIEW-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+<a href="https://github.com/manoharchalla-in"><img src="https://img.shields.io/badge/FOLLOWERS-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <br/>
 
@@ -139,7 +142,7 @@ Chalapathi Institute of Technology, Andhra Pradesh · **CGPA:** 7.38 · *Expecte
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharchalla-in&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="Manohar's streak stats"/>
 </td>
 <td align="center" valign="middle" width="150">
-<img src="https://camo.githubusercontent.com/cd5331abeb944d820396df2642475d78cf5cb9cfc8cf6640266f0295acb6c7b7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d6d6c465f6d5477333130414141416a2f646f63746f722d737472616e67652d696e2d7468652d6d756c746976657273652d6f662d6d61646e6573732d646f63746f722d737472616e67652e676966" width="130" alt="Doctor Strange 2"/>
+<img src="https://camo.githubusercontent.com/cd5331abeb944d820396df2642475d78cf5cb9cfc8cf6640266f0295acb6c7b7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d6d6c465f6d5477333130414141416j2f646f63746f722d737472616e67652d696e2d7468652d6d756c746976657273652d6f662d6d61646e6573732d646f63746f722d737472616e67652e676966" width="130" alt="Doctor Strange 2"/>
 </td>
 </tr>
 </table>
@@ -152,12 +155,12 @@ Chalapathi Institute of Technology, Andhra Pradesh · **CGPA:** 7.38 · *Expecte
 <div align="center">
 <h3>📫 Connect With Me</h3>
 
-<a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://github.com/manoharchalla-in"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/cit_23ht1a4315"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="mailto:challamanoharmanu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/17QwRfFf8-jzomB7fnvqKFlHCxw-UJQ3Y/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+<a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://github.com/manoharchalla-in"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/cit_23ht1a4315"><img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="mailto:challamanoharmanu@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/17QwRfFf8-jzomB7fnvqKFlHCxw-UJQ3Y/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
 <br/><br/>
 🌐 **Languages:** English · Telugu · Hindi · Tamil  
