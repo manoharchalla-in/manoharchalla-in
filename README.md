@@ -59,15 +59,10 @@ I'm **Challa Manohar**, an AI-Full Stack Developer pursuing B.Tech in Computer S
 
 </td>
 <td width="40%" align="center" valign="middle">
-<img src="https://camo.githubusercontent.com/81cda9bc7d4269503d2240bf5c68da6fb452c6c26b5ac616cb0dd5dfc4ab9496/68747470733a2f2f6d656469612e74656e6f722e636f6d2f697649516257493571653841414141692f7370696465722d6d616e2d6e6f2d7761792d686f6d652d6d617276656c2d73747564696f732e676966" width="100%" alt="Spider-Man GIF"/>
+<img src="https://camo.githubusercontent.com/cd5331abeb944d820396df2642475d78cf5cb9cfc8cf6640266f0295acb6c7b7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d6d6c465f6d5477333130414141416j2f646f63746f722d737472616e67652d696e2d7468652d6d756c746976657273652d6f662d6d617276656c2d73747564696f732e676966" width="100%" alt="Doctor Strange GIF"/>
 </td>
 </tr>
 </table>
-
-<br/>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manoharchalla-in&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350"/>
-</div>
 
 <br/>
 <h3>🚀 Featured Projects</h3>
