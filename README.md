@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=230&section=header&text=Hi%20There,%20I'm%20Manohar%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI-Full%20Stack%20Developer%20|%20B.Tech%20CSE%20(AI)&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=230&section=header&text=Hi%20There,%20I'm%20Manohar%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI-Full%20Stack%20Developer%20|%20B.Tech%20CSE%20(AI)&descAlignY=58&descAlign=50" width="100%"/>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+Build+AI-Powered+Web+Applications;React.js+%7C+Node.js+%7C+Firebase+%7C+AI+APIs;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80" alt="Typing SVG" />
