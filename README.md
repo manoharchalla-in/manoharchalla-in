@@ -32,11 +32,8 @@ I'm **Challa Manohar**, an AI-Full Stack Developer pursuing B.Tech in Computer S
 </table>
 
 <br/>
+<div align="center">
 <h3>🛠️ Tech Stack</h3>
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 <p><b>Frontend</b></p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark" />
@@ -56,13 +53,7 @@ I'm **Challa Manohar**, an AI-Full Stack Developer pursuing B.Tech in Computer S
 
 <p><b>Deployment</b></p>
 <img src="https://skillicons.dev/icons?i=netlify,vercel,render&theme=dark" />
-
-</td>
-<td width="40%" align="center" valign="middle">
-<img src="https://camo.githubusercontent.com/cd5331abeb944d820396df2642475d78cf5cb9cfc8cf6640266f0295acb6c7b7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d6d6c465f6d5477333130414141416j2f646f63746f722d737472616e67652d696e2d7468652d6d756c746976657273652d6f662d6d617276656c2d73747564696f732e676966" width="100%" alt="Doctor Strange GIF"/>
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 <h3>🚀 Featured Projects</h3>
@@ -130,7 +121,7 @@ Chalapathi Institute of Technology, Andhra Pradesh · **CGPA:** 7.38 · *Expecte
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharchalla-in&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="Manohar's streak stats"/>
 </td>
 <td align="center" valign="middle" width="150">
-<img src="https://camo.githubusercontent.com/cd5331abeb944d820396df2642475d78cf5cb9cfc8cf6640266f0295acb6c7b7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d6d6c465f6d5477333130414141416j2f646f63746f722d737472616e67652d696e2d7468652d6d756c746976657273652d6f662d6d617276656c2d73747564696f732e676966" width="130" alt="Doctor Strange 2"/>
+<img src="https://camo.githubusercontent.com/cd5331abeb944d820396df2642475d78cf5cb9cfc8cf6640266f0295acb6c7b7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d6d6c465f6d5477333130414141416j2f646f63746f722d73747564696f732e676966" width="130" alt="Doctor Strange 2"/>
 </td>
 </tr>
 </table>
