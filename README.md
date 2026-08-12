@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=230&section=header&text=Hi%20There,%20I'm%20Manohar%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI-Full%20Stack%20Developer%20|%20B.Tech%20CSE%20(AI)&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=230&section=header&text=Hi%20There,%20I'm%20Manohar%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI-Full%20Stack%20Developer%20|%20B.Tech%20CSE%20(AI)&descAlignY=58&descAlign=50"/>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+Build+AI-Powered+Web+Applications;React.js+%7C+Node.js+%7C+Firebase+%7C+AI+APIs;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80" alt="Typing SVG" />
 <br/><br/>
 
-<!-- Matching For-The-Badge Theme Badges -->
+<!-- Matching For-The-Badge Theme -->
 <img src="https://komarev.com/ghpvc/?username=manoharchalla-in&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="profile views"/>
 <a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -26,7 +26,7 @@ I'm **Challa Manohar**, an AI-Full Stack Developer pursuing B.Tech in Computer S
 
 </td>
 <td width="40%" align="center" valign="middle">
-<img src="https://camo.githubusercontent.com/95c9ac0b6b226c46292c9f5fa97324a80e4ff407ac13b163576143a812f5f19b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f664f443054424c4b516738414141416i2f7370696465722d6d616e2d6e6f2d7761792d686f6d652d6d617276656c2d73747564696f732e676966" width="100%" alt="Spider-Man"/>
+<img src="https://camo.githubusercontent.com/95c9ac0b6b226c46292c9f5fa97324a80e4ff407ac13b163576143a812f5f19b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f664f443054424c4b51673841414141692f7370696465722d6d616e2d6e6f2d7761792d686f6d652d6d617276656c2d73747564696f732e676966" width="100%" alt="Spider-Man"/>
 </td>
 </tr>
 </table>
@@ -132,7 +132,7 @@ Chalapathi Institute of Technology, Andhra Pradesh · **CGPA:** 7.38 · *Expecte
 <table border="0">
 <tr>
 <td align="center" valign="middle" width="150">
-<img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130" alt="Doctor Strange"/>
+<img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130" alt="Doctor Strange 1"/>
 </td>
 <td align="center" valign="middle">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharchalla-in&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="Manohar's streak stats"/>
