@@ -138,7 +138,7 @@ Chalapathi Institute of Technology, Andhra Pradesh · **CGPA:** 7.38 · *Expecte
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharchalla-in&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="Manohar's streak stats"/>
 </td>
 <td align="center" valign="middle" width="150">
-<img src="https://camo.githubusercontent.com/cd5331abeb944d820396df2642475d78cf5cb9cfc8cf6640266f0295acb6c7b7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d6d6c465f6d5477333130414141416j2f646f63746f722d737472616e67652d696e2d7468652d6d756c746976657273652d6f662d6d61646e6573732d646f63746f722d737472616e67652e676966" width="130" alt="Doctor Strange 2"/>
+<img src="https://media.giphy.com/media/llwf790LJlOThd1Q3g/giphy.gif" width="130" alt="VeeFriends Robot GIF"/>
 </td>
 </tr>
 </table>
