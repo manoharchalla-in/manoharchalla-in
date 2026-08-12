@@ -1,17 +1,5 @@
-<br/>
+Chalapathi Institute of Technology, Andhra Pradesh · CGPA: 7.38 · Expected May 2027 <br/> ## 📈 Contribution Snake <div align="center"> <img src="https://raw.githubusercontent.com/manoharchalla-in/manoharchalla-in/output/github-contribution-grid-snake.svg" width="100%"/> <sub>⚠️ Activates automatically once you enable the <a href="https://github.com/Platane/snk">snk GitHub Action</a> on your profile repo</sub> </div> <br/> ## 📫 Connect With Me <div align="center"> <a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" /></a><a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" /></a><a href="https://github.com/manoharchalla-in"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" /></a><a href="https://www.codechef.com/users/cit_23ht1a4315"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=codechef&logoColor=white" /></a><a href="mailto:23ht1a4315@city.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /></a> </div> <br/> <div align="center"> **🌐 Languages:** English · Telugu · Hindi · Tamil *"Solving real-world problems through modern web technologies and AI."* <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer"/> </div> 
 
-<div align="center">
 
-## 🏆 Contribution Stack ✌️
 
-<img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharchalla-in&hide_border=true&theme=radical&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" alt="Manohar's streak stats"/>
-<img src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="150"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manoharchalla-in&theme=tokyo-day&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
