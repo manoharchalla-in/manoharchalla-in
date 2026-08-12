@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=230&section=header&text=Hi%20There,%20I'm%20Manohar%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI-Full%20Stack%20Developer%20|%20B.Tech%20CSE%20(AI)&descAlignY=58&descAlign=50"/>
-<br/>
-<img src="https://github.com/manoharchalla-in.png" width="180" style="border-radius:50%;border:4px solid #6366F1;box-shadow:0 0 25px rgba(99,102,241,0.6);" alt="Manohar"/><br/><br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+Build+AI-Powered+Web+Applications;React.js+%7C+Node.js+%7C+Firebase+%7C+AI+APIs;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80" alt="Typing SVG" />
 <br/><br/>
@@ -31,12 +30,6 @@ I'm **Challa Manohar**, an AI-Full Stack Developer pursuing B.Tech in Computer S
 </td>
 </tr>
 </table>
-
-<br/>
-<div align="center">
-<h3>🏆 GitHub Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=manoharchalla-in&theme=flat&row=1&column=2&no-bg=true" alt="GitHub Trophies"/>
-</div>
 
 <br/>
 <h3>🛠️ Tech Stack</h3>
@@ -142,7 +135,7 @@ Chalapathi Institute of Technology, Andhra Pradesh · **CGPA:** 7.38 · *Expecte
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharchalla-in&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="Manohar's streak stats"/>
 </td>
 <td align="center" valign="middle" width="150">
-<img src="https://camo.githubusercontent.com/cd5331abeb944d820396df2642475d78cf5cb9cfc8cf6640266f0295acb6c7b7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d6d6c465f6d5477333130414141416j2f646f63746f722d737472616e67652d696e2d7468652d6d756c746976657273652d6f662d6d61646e6573732d646f63746f722d737472616e67652e676966" width="130" alt="Doctor Strange 2"/>
+<img src="https://camo.githubusercontent.com/cd5331abeb944d820396df2642475d78cf5cb9cfc8cf6640266f0295acb6c7b7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d6d6c465f6d5477333130414141416j2f646f63746f722d737472616e67652d696e2d7468652d6d756c746976657273652d6f662d6d617276656c2d73747564696f732e676966" width="130" alt="Doctor Strange 2"/>
 </td>
 </tr>
 </table>
