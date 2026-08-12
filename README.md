@@ -6,7 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+Build+AI-Powered+Web+Applications;React.js+%7C+Node.js+%7C+Firebase+%7C+AI+APIs;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80" alt="Typing SVG" />
 <br/><br/>
 
-<!-- Glossy Transparent Badges -->
 <img src="https://komarev.com/ghpvc/?username=manoharchalla-in&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="profile views"/>
 <a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -120,13 +119,23 @@ Chalapathi Institute of Technology, Andhra Pradesh · **CGPA:** 7.38 · *Expecte
 
 <br/>
 <div align="center">
-<h3>🏆 Contribution Stack ✌️</h3>
+<h3>📊 Contribution Stack ✌️</h3>
 
-<img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharchalla-in&hide_border=true&theme=radical&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="Manohar's streak stats"/>
-<img src="https://media.tenor.com/F4_r8jC-L64AAAAj/scarlet-witch-wandavision.gif" width="120"/>
-<br/><br/>
+<table border="0">
+<tr>
+<td align="center" valign="middle" width="150">
+<img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130" alt="Doctor Strange"/>
+</td>
+<td align="center" valign="middle">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharchalla-in&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="Manohar's streak stats"/>
+</td>
+<td align="center" valign="middle" width="150">
+<img src="https://media.tenor.com/F4_r8jC-L64AAAAj/scarlet-witch-wandavision.gif" width="130" alt="Scarlet Witch"/>
+</td>
+</tr>
+</table>
 
+<br/>
 <img src="https://raw.githubusercontent.com/manoharchalla-in/manoharchalla-in/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
