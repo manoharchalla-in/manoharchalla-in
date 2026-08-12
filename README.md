@@ -1,7 +1,20 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=230&section=header&text=Hi%20There,%20I'm%20Manohar%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI-Full%20Stack%20Developer%20|%20B.Tech%20CSE%20(AI)&descAlignY=58&descAlign=50"/>
+<br/>
 <img src="./profile.jpg" width="180" style="border-radius:50%;border:4px solid #6366F1;box-shadow:0 0 25px rgba(99,102,241,0.6);" alt="Manohar"/><br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+Build+AI-Powered+Web+Applications;React.js+%7C+Node.js+%7C+Firebase+%7C+AI+APIs;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<br/><br/>
+
+<!-- Matching For-The-Badge Theme -->
+<img src="https://komarev.com/ghpvc/?username=manoharchalla-in&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="profile views"/>
+<a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:challamanoharmanu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/cit_23ht1a4315"><img src="https://img.shields.io/badge/CODECHEF-PROFILE-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<br/>
+<a href="https://drive.google.com/file/d/17QwRfFf8-jzomB7fnvqKFlHCxw-UJQ3Y/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-VIEW-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+<a href="https://github.com/manoharchalla-in"><img src="https://img.shields.io/badge/FOLLOWERS-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <br/>
 
@@ -11,19 +24,6 @@
 
 ### 🧠 About Me
 I'm **Challa Manohar**, an AI-Full Stack Developer pursuing B.Tech in Computer Science & Engineering (Artificial Intelligence) at Chalapathi Institute of Technology (Expected May 2027). Passionate about building modern, AI-powered web applications that solve real-world problems using React.js, Node.js, Firebase, REST APIs, and AI technologies.
-
-<br/>
-
-<!-- Badges placed right after About Me -->
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=manoharchalla-in&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="profile views"/>
-<a href="https://linkedin.com/in/challa-m-0a7b6a254"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/manoharmanu0"><img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:challamanoharmanu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/cit_23ht1a4315"><img src="https://img.shields.io/badge/CODECHEF-PROFILE-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/17QwRfFf8-jzomB7fnvqKFlHCxw-UJQ3Y/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-VIEW-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-<a href="https://github.com/manoharchalla-in"><img src="https://img.shields.io/badge/FOLLOWERS-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
 
 </td>
 <td width="40%" align="center" valign="middle">
